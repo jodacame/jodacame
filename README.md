@@ -1,4 +1,4 @@
-### Hi there, here you can see some works made by me👋
+### Hi there 👋, here you can see some works made by me
 
 <!--
 **jodacame/jodacame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
