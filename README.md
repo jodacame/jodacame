@@ -11,50 +11,54 @@ My works 🙈
 
 **Mini Tutoriales**
 https://como.help/
+| Nodejs | MongoDB | Handlebars
 
 **Información Nutricional**
-https://nutricional.info/
+https://nutricional.info/ | Nodejs | MongoDB | Handlebars
 
 **Happi.dev**
-https://happi.dev/
+https://happi.dev/ | Nodejs | PostgreSQL | Handlebars | Redis
 
 **Dólar en Colombia**
-https://www.dolarcolombia.co/
+https://www.dolarcolombia.co/ | Nodejs | MongoDB | Handlebars | API Rest | Cordova 
 
 **Salario Mínimo Colombia**
-http://www.salariominimocolombia.info/
+http://www.salariominimocolombia.info/ | Nodejs | MongoDB | Handlebars
 
 **Letras en Español**
-https://letrasenespañol.com/
+https://letrasenespañol.com/ | Nodejs | MongoDB | Handlebars | AMP Google | API Rest
 
 **Codepen Repository**
-https://www.codeseek.co/
+https://www.codeseek.co/ | Nodejs | MongoDB | Handlebars | API Rest
 
 **Seo Analyzer**
-https://www.prorank.co/
+https://www.prorank.co/ | PHP | MySQL | API Rest | Google Cloud | Coideigniter 
 
 **ApiSeeds**
-https://apiseeds.com/
+https://apiseeds.com/ (Deprecated -> Migrated to Happi.dev) | Nodejs | MongoDB | Handlebars | Redis | API Rest
 
 **isOpen**
-https://isopen.net/
+https://isopen.net/ | Nodejs | Handlebars
 
 **Currency Converter**
-https://converter.cryptomining.review/
+https://converter.cryptomining.review/ | PHP | API Rest
 
 **Himnos de los Paises**
-https://himnos.xyz/
+https://himnos.xyz/ | Nodejs | PostgreSQL | Handlebars | Strapi | API Rest
 
 **Banderas & Información de los paises**
-https://lospaises.info/
+https://lospaises.info/ | Nodejs | PostgreSQL | Handlebars | Strapi | API Rest
 
 **Guía de TV en Colombia**
-https://laguia.tv/
+https://laguia.tv/ | Nodejs | PostgreSQL | Handlebars | Strapi | API Rest
+
+**Calidad del Aire**
+https://elaire.info/ | Nodejs | Vuejs | Nuxt
 
 
 ## Business Directory LATAM 🇦🇷🇧🇴🇨🇱🇨🇴🇨🇷🇪🇨🇸🇻🇬🇹🇲🇽🇵🇦🇵🇪🇵🇷🇩🇴🇺🇾🇻🇪
 
-https://eldirectorio.co/
+https://eldirectorio.co/ | Nodejs | PostgreSQL | Handlebars | Redis | API Rest
 
 ## Github Repositories <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png" height="20">
 
@@ -63,15 +67,15 @@ https://github.com/jodacame?tab=repositories
 ## Android 
 
 **Precio del Dólar en Colombia**
-https://play.google.com/store/apps/details?id=co.dolarcolombia.app
+https://play.google.com/store/apps/details?id=co.dolarcolombia.app 
 
 **Control Láminas Álbum Chocolatinas Jet**
-https://play.google.com/store/apps/details?id=review.aplicaciones.controlalbumjet
+https://play.google.com/store/apps/details?id=review.aplicaciones.controlalbumjet | Nodejs | MongoDB | Handlebars | Cordova | API Rest
 
 ## Personal Blog
 
 **jodacame**
-https://blog.jodacame.com
+https://blog.jodacame.com (Deprecated :( )
 
 
 ## Freelance 👨‍💻
@@ -83,7 +87,7 @@ https://codecanyon.net/user/jodacame/portfolio?ref=jodacame
 https://www.shutterstock.com/g/jodacame?language=en
 
 **SRO Latino Servers (Website Developer)**
-https://www.alfa.srolatino-servers.com/
+https://www.alfa.srolatino-servers.com/ | PHP | SQL Server | Codeignter | API Rest 
 
 ## NPM Packages <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg"  height="20" />
 
