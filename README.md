@@ -89,9 +89,23 @@ https://www.shutterstock.com/g/jodacame?language=en
 **SRO Latino Servers (Website Developer)**
 https://www.alfa.srolatino-servers.com/ | PHP | SQL Server | Codeignter | API Rest 
 
+**Fincas VIP (Alquiler de fincas)**
+https://www.fincasvip.com.co/ | Wordpress: Custom theme and plugins
+
+**Plataforma Informatica (Apps: PiB2B, PiTramites, PiConnect ... I+D)**
+https://www.plataformainformatica.com/ | PHP | Nodejs | MongoDB | MySQL | PostgreSQL | Cordova | API Rest | SOAP
+
+**FastCode Lab (Private)**
+https://fastcodelab.com/ | Nodejs | MongoDB | PostgreSQL | Strapi | API Rest
+
+**Kind Colombia (Volunteer)**
+https://kindcolombia.org/ | Wordpress
+
 ## NPM Packages <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg"  height="20" />
 
 [Visit my profile](https://www.npmjs.com/~jodacame)
+
+
 
 ## Chrome Extension
 
