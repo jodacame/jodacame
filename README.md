@@ -32,7 +32,7 @@ https://letrasenespañol.com/ | Nodejs | MongoDB | Handlebars | AMP Google | API
 https://www.codeseek.co/ | Nodejs | MongoDB | Handlebars | API Rest
 
 **Seo Analyzer**
-https://www.prorank.co/ | PHP | MySQL | API Rest | Google Cloud | Coideigniter 
+https://www.prorank.co/ | PHP | MySQL | API Rest | Google Cloud | Coideigniter | Amazon SES & S3 
 
 **ApiSeeds**
 https://apiseeds.com/ (Deprecated -> Migrated to Happi.dev) | Nodejs | MongoDB | Handlebars | Redis | API Rest
@@ -93,7 +93,7 @@ https://www.alfa.srolatino-servers.com/ | PHP | SQL Server | Codeignter | API Re
 https://www.fincasvip.com.co/ | PHP | MySQL | Wordpress: Custom theme and plugins
 
 **Plataforma Informatica (Apps: PiB2B, PiTramites, PiConnect ... I+D)**
-https://www.plataformainformatica.com/ | PHP | Nodejs | MongoDB | MySQL | PostgreSQL | Cordova | API Rest | SOAP
+https://www.plataformainformatica.com/ | PHP | Nodejs | MongoDB | MySQL | PostgreSQL | Cordova | API Rest | SOAP | Google Cloud | Amazon SES & S3 | Digital Ocean
 
 **FastCode Lab (Private)**
 https://fastcodelab.com/ | Nodejs | MongoDB | PostgreSQL | Strapi | API Rest
