@@ -75,7 +75,7 @@ https://play.google.com/store/apps/details?id=review.aplicaciones.controlalbumje
 ## Personal Blog
 
 **jodacame**
-https://blog.jodacame.com (Deprecated :( )
+https://blog.jodacame.com (Abandoned 😢 )
 
 
 ## Freelance 👨‍💻
@@ -90,7 +90,7 @@ https://www.shutterstock.com/g/jodacame?language=en
 https://www.alfa.srolatino-servers.com/ | PHP | SQL Server | Codeignter | API Rest 
 
 **Fincas VIP (Alquiler de fincas)**
-https://www.fincasvip.com.co/ | Wordpress: Custom theme and plugins
+https://www.fincasvip.com.co/ | PHP | MySQL | Wordpress: Custom theme and plugins
 
 **Plataforma Informatica (Apps: PiB2B, PiTramites, PiConnect ... I+D)**
 https://www.plataformainformatica.com/ | PHP | Nodejs | MongoDB | MySQL | PostgreSQL | Cordova | API Rest | SOAP
@@ -107,7 +107,7 @@ https://kindcolombia.org/ | Wordpress
 
 
 
-## Chrome Extension
+## Google Chrome Extension
 
 **Dólar Colombia**
 https://chrome.google.com/webstore/detail/d%C3%B3lar-en-colombia/kfhfekhnikgjcoigcpimlocnmedaicpe
