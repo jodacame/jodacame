@@ -72,11 +72,13 @@ https://play.google.com/store/apps/details?id=co.dolarcolombia.app
 **Control Láminas Álbum Chocolatinas Jet**
 https://play.google.com/store/apps/details?id=review.aplicaciones.controlalbumjet | Nodejs | MongoDB | Handlebars | Cordova | API Rest
 
+## Designer 
+https://dribbble.com/jodacame
+
 ## Personal Blog
 
 **jodacame**
 https://blog.jodacame.com (Abandoned 😢 )
-
 
 ## Freelance 👨‍💻
 
