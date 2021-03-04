@@ -63,7 +63,7 @@ https://elaire.info/ | Nodejs | Vuejs | Nuxt
 **Business Directory LATAM 🇦🇷🇧🇴🇨🇱🇨🇴🇨🇷🇪🇨🇸🇻🇬🇹🇲🇽🇵🇦🇵🇪🇵🇷🇩🇴🇺🇾🇻🇪**
 https://eldirectorio.co/ | Nodejs | PostgreSQL | Handlebars | Redis | API Rest
 
-## ![Gitgub Repository](https://user-images.githubusercontent.com/3913367/109967096-00dccc00-7cbf-11eb-8f41-48e31f8e9f28.png)
+![Gitgub Repository](https://user-images.githubusercontent.com/3913367/109967096-00dccc00-7cbf-11eb-8f41-48e31f8e9f28.png)
 
 
 https://github.com/jodacame?tab=repositories
