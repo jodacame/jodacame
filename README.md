@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://user-images.githubusercontent.com/3913367/109970284-dee54880-7cc2-11eb-93ed-409e538eaa45.png" title="Github jodacame Readme">
+</p>
+
 ### Hi there 👋, here you can see some works made by me
 
 <!--
@@ -8,8 +12,7 @@ My works 🙈
 
 ![jodacame's GitHub stats](https://github-readme-stats.vercel.app/api?username=jodacame&show_icons=true&count_private=true&include_all_commits=true&custom_title=jodacame%27s%20Github%20Stats&theme=dark)
 
-
-## Tools and miscellaneous 🛠️
+![Gitgub Tools](https://user-images.githubusercontent.com/3913367/109966707-9035af80-7cbe-11eb-9ac1-566061a2922f.png)
 
 **Mini Tutoriales**
 https://como.help/
@@ -57,16 +60,15 @@ https://laguia.tv/ | Nodejs | PostgreSQL | Handlebars | Strapi | API Rest
 **Calidad del Aire**
 https://elaire.info/ | Nodejs | Vuejs | Nuxt
 
-
-## Business Directory LATAM 🇦🇷🇧🇴🇨🇱🇨🇴🇨🇷🇪🇨🇸🇻🇬🇹🇲🇽🇵🇦🇵🇪🇵🇷🇩🇴🇺🇾🇻🇪
-
+**Business Directory LATAM 🇦🇷🇧🇴🇨🇱🇨🇴🇨🇷🇪🇨🇸🇻🇬🇹🇲🇽🇵🇦🇵🇪🇵🇷🇩🇴🇺🇾🇻🇪**
 https://eldirectorio.co/ | Nodejs | PostgreSQL | Handlebars | Redis | API Rest
 
-## Github Repositories <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png" height="20">
+## ![Gitgub Repository](https://user-images.githubusercontent.com/3913367/109967096-00dccc00-7cbf-11eb-8f41-48e31f8e9f28.png)
+
 
 https://github.com/jodacame?tab=repositories
 
-## Android 
+![Github Android](https://user-images.githubusercontent.com/3913367/109967379-54e7b080-7cbf-11eb-956c-4e62a06c8507.png)
 
 **Precio del Dólar en Colombia**
 https://play.google.com/store/apps/details?id=co.dolarcolombia.app 
@@ -74,15 +76,11 @@ https://play.google.com/store/apps/details?id=co.dolarcolombia.app
 **Control Láminas Álbum Chocolatinas Jet**
 https://play.google.com/store/apps/details?id=review.aplicaciones.controlalbumjet | Nodejs | MongoDB | Handlebars | Cordova | API Rest
 
-## Designer 
+![Github Designer](https://user-images.githubusercontent.com/3913367/109967601-9ed09680-7cbf-11eb-8fc2-257a309c8db0.png)
+
 https://dribbble.com/jodacame
 
-## Personal Blog
-
-**jodacame**
-https://blog.jodacame.com (Abandoned 😢 )
-
-## Freelance 👨‍💻
+![Gitgub Freelance](https://user-images.githubusercontent.com/3913367/109967943-0e468600-7cc0-11eb-995c-b4b16cb7c008.png)
 
 **Evanto Portfolio**
 https://codecanyon.net/user/jodacame/portfolio?ref=jodacame
@@ -105,13 +103,11 @@ https://fastcodelab.com/ | Nodejs | MongoDB | PostgreSQL | Strapi | API Rest
 **Kind Colombia (Volunteer)**
 https://kindcolombia.org/ | Wordpress
 
-## NPM Packages <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg" data-canonical-src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg"  height="20" />
-
-[Visit my profile](https://www.npmjs.com/~jodacame)
+[NPM](https://www.npmjs.com/~jodacame)
 
 
+![Gitgub Chrome](https://user-images.githubusercontent.com/3913367/109968144-51085e00-7cc0-11eb-82a5-4a37096d6515.png)
 
-## Google Chrome Extension
 
 **Dólar Colombia**
 https://chrome.google.com/webstore/detail/d%C3%B3lar-en-colombia/kfhfekhnikgjcoigcpimlocnmedaicpe
@@ -134,7 +130,12 @@ https://chrome.google.com/webstore/detail/envato-notifications-sale/helmefkledpm
 **Search phrases related in Google**
 https://chrome.google.com/webstore/detail/search-phrases-related-in/eklpkhjmgcepjljfmpmdaeicgoemojjb
 
-## Deprecated / Deserted (Never Will Forget) 😢
+![Gitgub Deprecated](https://user-images.githubusercontent.com/3913367/109968413-acd2e700-7cc0-11eb-9d1e-d037a3bb9789.png)
+
+(Never Will Forget) 😢
+
+**Blog**
+https://blog.jodacame.com (Abandoned 😢 )
 
 **MegaJC** 
 https://sourceforge.net/projects/megajc/
