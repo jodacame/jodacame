@@ -1,4 +1,8 @@
 <p align="center">
+<img src="https://user-images.githubusercontent.com/3913367/109972336-2bca1e80-7cc5-11eb-875e-07de4915e452.png" title="Hidden on DarkMode :)">
+</p>
+
+<p align="center">
 <img src="https://user-images.githubusercontent.com/3913367/109970284-dee54880-7cc2-11eb-93ed-409e538eaa45.png" title="Github jodacame Readme">
 </p>
 
