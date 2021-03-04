@@ -6,6 +6,8 @@
 
 My works 🙈
 
+![jodacame's GitHub stats](https://github-readme-stats.vercel.app/api?username=jodacame&show_icons=true&count_private=true&include_all_commits=true&custom_title=jodacame%27s%20Github%20Stats&theme=dark)
+
 
 ## Tools and miscellaneous 🛠️
 
@@ -153,3 +155,6 @@ http://web.archive.org/web/20160316130716/https://www.nexxuz.com/
 https://wordpress.org/plugins/search/jodacame/
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jodacame&layout=compact&theme=dark)](https://github.com/jodacame/github-readme-stats)
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=https://github.com/jodacame/jodacame/edit/master/README.md)
