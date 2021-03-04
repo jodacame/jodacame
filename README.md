@@ -157,4 +157,4 @@ https://wordpress.org/plugins/search/jodacame/
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jodacame&layout=compact&theme=dark)](https://github.com/jodacame/github-readme-stats)
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=https://github.com/jodacame/jodacame/edit/master/README.md)
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=https://github.com/jodacame/)
