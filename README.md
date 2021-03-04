@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/3913367/109972509-62a03480-7cc5-11eb-9141-9cc5a58c1106.png" title="Hidden on DarkMode :)">
+<img src="https://user-images.githubusercontent.com/3913367/109972987-d9d5c880-7cc5-11eb-87ff-3ccca997f9f7.png" title="DarkMode :)">
 </p>
 
 <p align="center">
