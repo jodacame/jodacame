@@ -103,7 +103,8 @@ https://fastcodelab.com/ | Nodejs | MongoDB | PostgreSQL | Strapi | API Rest
 **Kind Colombia (Volunteer)**
 https://kindcolombia.org/ | Wordpress
 
-[NPM](https://www.npmjs.com/~jodacame)
+**NPM Profile**
+https://www.npmjs.com/~jodacame | Javascript
 
 
 ![Gitgub Chrome](https://user-images.githubusercontent.com/3913367/109968144-51085e00-7cc0-11eb-82a5-4a37096d6515.png)
