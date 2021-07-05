@@ -145,7 +145,7 @@ https://chrome.google.com/webstore/detail/search-phrases-related-in/eklpkhjmgcep
 
 ![Gitgub Deprecated](https://user-images.githubusercontent.com/3913367/109968413-acd2e700-7cc0-11eb-9d1e-d037a3bb9789.png)
 
-(Never Will Forget) 😢
+(I will never forget) 😢
 
 **Blog**
 https://blog.jodacame.com (Abandoned 😢 )
