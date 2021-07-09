@@ -24,11 +24,11 @@ My works 🙈
 
 **Open Graph Preview & Generator**
 https://opengraph.dev/
-| Nodejs | Nuxt | Vuejs | Tailwindcss | Nuxt Content | PWA
+| Nodejs | Nuxt | Vuejs | Tailwindcss | Nuxt Content | PWA | Figma
 
 **Coleccionistas PWA**
 https://coleccionistas.app/
-| Nodejs | PostgreSQL | Strapi | VueJS | PWA
+| Nodejs | PostgreSQL | Strapi | VueJS | PWA | Figma
 
 **Mini Tutoriales**
 https://como.help/
