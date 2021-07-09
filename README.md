@@ -22,7 +22,7 @@ My works 🙈
 
 ![Gitgub Tools](https://user-images.githubusercontent.com/3913367/109966707-9035af80-7cbe-11eb-9ac1-566061a2922f.png)
 
-**Open Graph Preview * Generator**
+**Open Graph Preview & Generator**
 https://opengraph.dev/
 | Nodejs | Nuxt | Vuejs | Tailwindcss | Nuxt Content | PWA
 
