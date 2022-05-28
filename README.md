@@ -34,6 +34,9 @@ https://skriper.dev/
 https://opengraph.dev/
 | Nodejs | Nuxt | Vuejs | Tailwindcss | Nuxt Content | PWA | Figma
 
+**Guía de TV en Colombia & Mexico**
+https://laguia.tv/ | Nodejs | PostgreSQL | Vuejs | Vuetify | API Rest | Automatization
+
 **Coleccionistas PWA**
 https://coleccionistas.app/
 | Nodejs | PostgreSQL | Strapi | VueJS | PWA | Figma
@@ -43,19 +46,19 @@ https://como.help/
 | Nodejs | MongoDB | Handlebars | Custom CMS
 
 **Información Nutricional**
-https://nutricional.info/ | Nodejs | MongoDB | Handlebars
+https://nutricional.info/ | Nodejs | MongoDB | Handlebars | Automatization
 
 **Happi.dev**
-https://happi.dev/ | Nodejs | PostgreSQL | Handlebars | Redis
+https://happi.dev/ | Nodejs | PostgreSQL | Handlebars | Redis | Automatization
 
 **Dólar en Colombia**
-https://www.dolarcolombia.co/ | Nodejs | MongoDB | Handlebars | API Rest | Cordova 
+https://www.dolarcolombia.co/ | Nodejs | MongoDB | Handlebars | API Rest | Cordova | Automatization
 
 **Salario Mínimo Colombia**
-http://www.salariominimocolombia.info/ | Nodejs | MongoDB | Handlebars
+http://www.salariominimocolombia.info/ | Nodejs | MongoDB | Handlebars | Automatization
 
 **Letras en Español**
-https://letrasenespañol.com/ | Nodejs | MongoDB | Handlebars | AMP Google | API Rest
+https://letrasenespañol.com/ | Nodejs | MongoDB | Handlebars | AMP Google | API Rest | Automatization
 
 **Codepen Repository**
 https://www.codeseek.co/ | Nodejs | MongoDB | Handlebars | API Rest
@@ -67,22 +70,13 @@ https://www.prorank.co/ | PHP | MySQL | API Rest | Google Cloud | Coideigniter |
 https://apiseeds.com/ (Deprecated -> Migrated to Happi.dev) | Nodejs | MongoDB | Handlebars | Redis | API Rest
 
 **isOpen**
-https://isopen.net/ | Nodejs | Handlebars
-
-**Currency Converter**
-https://converter.cryptomining.review/ | PHP | API Rest
+https://isopen.net/ | Nodejs | Handlebars | Custom NPM Plugin 
 
 **Himnos de los Paises**
 https://himnos.xyz/ | Nodejs | PostgreSQL | Handlebars | Strapi | API Rest
 
 **Banderas & Información de los paises**
 https://lospaises.info/ | Nodejs | PostgreSQL | Handlebars | Strapi | API Rest
-
-**Guía de TV en Colombia**
-https://laguia.tv/ | Nodejs | PostgreSQL | Handlebars | Strapi | API Rest
-
-**Calidad del Aire**
-https://elaire.info/ | Nodejs | Vuejs | Nuxt
 
 **Business Directory LATAM 🇦🇷🇧🇴🇨🇱🇨🇴🇨🇷🇪🇨🇸🇻🇬🇹🇲🇽🇵🇦🇵🇪🇵🇷🇩🇴🇺🇾🇻🇪**
 https://eldirectorio.co/ | Nodejs | PostgreSQL | Handlebars | Redis | API Rest
@@ -118,7 +112,7 @@ https://www.alfa.srolatino-servers.com/ | PHP | SQL Server | Codeignter | API Re
 **Fincas VIP (Alquiler de fincas)**
 https://www.fincasvip.com.co/ | PHP | MySQL | Wordpress: Custom theme and plugins
 
-**Plataforma Informatica (Apps: PiB2B, PiTramites, PiConnect ... I+D)**
+**Plataforma Informatica (Apps: PiB2B, PiTramites, PiConnect, Admin, Api Rest ... I+D)**
 https://www.plataformainformatica.com/ | PHP | Nodejs | MongoDB | MySQL | PostgreSQL | Cordova | API Rest | SOAP | Google Cloud | Amazon SES & S3 | Digital Ocean
 
 **FastCode Lab (Private)**
