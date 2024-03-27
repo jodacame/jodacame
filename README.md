@@ -26,11 +26,9 @@ My works 🙈
 
 ![Gitgub Tools](https://user-images.githubusercontent.com/3913367/109966707-9035af80-7cbe-11eb-9ac1-566061a2922f.png)
 
-**Skriper.dev**
-https://skriper.dev/
-| Nodejs | Nuxt | Vuejs | PWA | Figma | VanillaJS | Codemirror 6 (With my own extensions)
 
-**Open Graph Preview & Generator**
+
+**Open Graph Preview & Generator (SOLD)**
 https://opengraph.dev/
 | Nodejs | Nuxt | Vuejs | Tailwindcss | Nuxt Content | PWA | Figma
 
@@ -152,6 +150,10 @@ https://chrome.google.com/webstore/detail/search-phrases-related-in/eklpkhjmgcep
 ![Gitgub Deprecated](https://user-images.githubusercontent.com/3913367/109968413-acd2e700-7cc0-11eb-9d1e-d037a3bb9789.png)
 
 (I will never forget) 😢
+
+**Skriper.dev**
+https://skriper.dev/
+| Nodejs | Nuxt | Vuejs | PWA | Figma | VanillaJS | Codemirror 6 (With my own extensions)
 
 **Blog**
 https://blog.jodacame.com (Abandoned 😢 )
