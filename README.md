@@ -27,6 +27,12 @@ My works 🙈
 ![Gitgub Tools](https://user-images.githubusercontent.com/3913367/109966707-9035af80-7cbe-11eb-9ac1-566061a2922f.png)
 
 
+**Communities**
+https://kogui.app | Nodejs | Vue3 | Nuxt | PostgreSQL | Custom Stable Difussion | OpenAI Integration | Tensorflow 
+
+That is my recent project. The idea is to centralize all my sites on one site and focus each on a community place. I have many sites and domains, and maintenance is very hard, so I made this place for me and others who want to create their own community for free.
+
+---
 
 **Open Graph Preview & Generator (SOLD)**
 https://opengraph.dev/
