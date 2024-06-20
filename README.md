@@ -28,7 +28,7 @@ My works 🙈
 
 
 **Communities**
-https://kogui.app | Nodejs | Vue3 | Nuxt | PostgreSQL | Self-hosted Stable Diffusion | OpenAI Integration | Tensorflow 
+https://kogui.app | Nodejs | Vue3 | Nuxt | PostgreSQL | Redis | Self-hosted Stable Diffusion | OpenAI Integration | Tensorflow | SEO
 
 That is my recent project. The idea is to centralize all my sites on one site and focus each on a community place. I have many sites and domains, and maintenance is very hard, so I made this place for me and others who want to create their own community for free.
 
