@@ -8,11 +8,6 @@ I am a passionate full-stack developer with extensive experience in building and
 <!--
 **jodacame/jodacame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jodacame&show_icons=true&count_private=true&include_all_commits=true&custom_title=jodacame%27s%20Github%20Stats&theme=dark" title="jodacame's GitHub stats">
-</p>
- <img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=jodacame&branding=false&badges=2&show-avatar=true&style=--header-bg-color:%23000;--border-radius:0px">
-
 
 
 ## Selected Projects
@@ -47,7 +42,7 @@ https://como.help/
 https://nutricional.info/ | Nodejs | MongoDB | Handlebars | Automatization
 
 **Happi.dev**
-https://happi.dev/ | Nodejs | PostgreSQL | Handlebars | Redis | Automatization
+https://happi.dev/ | Nodejs | PostgreSQL | Nuxt | Vue3 | Redis | Automatization
 
 **Dólar en Colombia**
 https://www.dolarcolombia.co/ | Nodejs | MongoDB | Handlebars | API Rest | Cordova | Automatization
@@ -149,7 +144,9 @@ https://chrome.google.com/webstore/detail/search-phrases-related-in/eklpkhjmgcep
 
 ![Gitgub Deprecated](https://user-images.githubusercontent.com/3913367/109968413-acd2e700-7cc0-11eb-9d1e-d037a3bb9789.png)
 
-(I will never forget) 😢
+## Deprecated Projects
+
+The following projects have been discontinued, but they remain a testament to my journey as a developer and the evolution of my work:
 
 **Skriper.dev**
 https://skriper.dev/
