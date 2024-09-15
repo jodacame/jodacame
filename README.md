@@ -1,13 +1,9 @@
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/3913367/109972987-d9d5c880-7cc5-11eb-87ff-3ccca997f9f7.png" title="DarkMode :)">
-</p>
 
-<p align="center">
-<img src="https://user-images.githubusercontent.com/3913367/109970284-dee54880-7cc2-11eb-93ed-409e538eaa45.png" title="Github jodacame Readme">
-</p>
+## About Me
 
-### Hi there 👋, here you can see some works made by me
+I am a passionate full-stack developer with extensive experience in building and maintaining a wide range of web applications. My work spans across various technologies, including Node.js, Vue.js, Nuxt, PostgreSQL, MongoDB, and more. I’m dedicated to creating efficient, scalable, and user-friendly solutions.
+
 
 <!--
 **jodacame/jodacame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,9 +15,7 @@
 
 
 
-
-My works 🙈
-
+## Selected Projects
 
 
 ![Gitgub Tools](https://user-images.githubusercontent.com/3913367/109966707-9035af80-7cbe-11eb-9ac1-566061a2922f.png)
@@ -183,6 +177,6 @@ http://web.archive.org/web/20160316130716/https://www.nexxuz.com/
 https://wordpress.org/plugins/search/jodacame/
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jodacame&layout=compact&theme=dark)](https://github.com/jodacame/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jodacame&layout=compact&theme=)](https://github.com/jodacame/github-readme-stats)
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=https://github.com/jodacame/)
+
