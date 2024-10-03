@@ -19,9 +19,15 @@ I am a passionate full-stack developer with extensive experience in building and
 **Communities**
 https://kogui.app | Nodejs | Vue3 | Nuxt | PostgreSQL | Redis | Self-hosted Stable Diffusion | OpenAI Integration | Tensorflow | SEO
 
-That is my recent project. The idea is to centralize all my sites on one site and focus each on a community place. I have many sites and domains, and maintenance is very hard, so I made this place for me and others who want to create their own community for free.
+**Happi.dev**
+https://happi.dev/ | Nodejs | PostgreSQL | Nuxt | Vue3 | Redis | Automatization
+
 
 ---
+
+
+**Dólar en Colombia**
+https://www.dolarcolombia.co/ | Nodejs | MongoDB | Handlebars | API Rest | Cordova | Automatization
 
 **Open Graph Preview & Generator (SOLD)**
 https://opengraph.dev/
@@ -30,22 +36,10 @@ https://opengraph.dev/
 **Guía de TV en Colombia & Mexico**
 https://laguia.tv/ | Nodejs | PostgreSQL | Vuejs | Vuetify | API Rest | Automatization
 
-**Coleccionistas PWA**
-https://coleccionistas.app/
-| Nodejs | PostgreSQL | Strapi | VueJS | PWA | Figma
-
-**Mini Tutoriales**
-https://como.help/
-| Nodejs | MongoDB | Handlebars | Custom CMS
-
 **Información Nutricional**
 https://nutricional.info/ | Nodejs | MongoDB | Handlebars | Automatization
 
-**Happi.dev**
-https://happi.dev/ | Nodejs | PostgreSQL | Nuxt | Vue3 | Redis | Automatization
 
-**Dólar en Colombia**
-https://www.dolarcolombia.co/ | Nodejs | MongoDB | Handlebars | API Rest | Cordova | Automatization
 
 **Salario Mínimo Colombia**
 http://www.salariominimocolombia.info/ | Nodejs | MongoDB | Handlebars | Automatization
